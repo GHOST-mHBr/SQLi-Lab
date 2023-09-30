@@ -1,10 +1,16 @@
 # SQL injection lab
 
+A vulnerable lab that you practice the following vulnerabilities:
+
+* SQL injection
+* SQLi lead to RCE
+* SQLi lead to XSS
+
 ## Requirements
 
-- MySQL Server running on localhost
-- MySQL Employees sample database
-- PHP (tested with PHP 8.1)
+* MySQL Server running on localhost
+* MySQL Employees sample database
+* PHP (tested with PHP 8.1)
 
 ## Installation
 
