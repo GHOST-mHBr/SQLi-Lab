@@ -48,4 +48,4 @@ for linux: `/var/www/html/`
 
 and for Windows and xampp: `C:/xampp/htdocs/`
 
-Now you can reach the lab by opening a browser and entering the following address :`127.0.0.1/SQLI%20Lab/level1.php`
+Now you can reach the lab by opening a browser and entering the following address :`127.0.0.1/SQLi%20Lab/level1.php`
